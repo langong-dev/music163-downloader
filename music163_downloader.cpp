@@ -10,7 +10,7 @@ int main ()
 	char tmp[20];
 	for (int i = 0; i < 20; i++)
 		tmp[i] = 0; //对tmp进行清零
-	cout<<"This program is for linux and build by Arch-Jason(on github). It's use to download music from music163!\npleas input the URL of your favourit music(the URL mast has \"/\"in the end):";
+	cout<<"This program is for linux and build by Arch-Jason(on github). It's use to download music from music163!\npleas input the URL of your favourit music:";
 	cin>>URL;
 	/*for (int i = 0; i < 200; i++)
 		cout<<URL[i];*/
