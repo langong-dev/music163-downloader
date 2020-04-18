@@ -1,5 +1,7 @@
 # Music163Downloader
 
+[中文？](/README-CH.md)
+
 # Install
 
 ```bash
