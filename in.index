@@ -1,0 +1,4 @@
+fun(){
+  g++ music163_downloader.cpp -o music
+  ./music163
+}
