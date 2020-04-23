@@ -1,19 +1,17 @@
 # Music163Downloader
 
-[中文？](/README-CH.md)
-
 # Install
 
+Install [LanFilePackage](https://langong-dev.github.io/LanFilePackage/) first.
+
 ```bash
-# Git Clone
-git clone https://github.com/langong-dev/music163-downloader.git
+./LanGong install github langong-dev/music163-downloader
 ```
 
 # Use
 
 ```bash
-g++ music163_downloader.cpp -o music163
-./music163
+./LanGong run music163-downloader
 ```
 
 Then input the link of your music.
